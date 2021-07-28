@@ -6,7 +6,11 @@ Test ML and DL method to classify the dialog action
 
 * KNN
 * Naive Bayes by MultinomialNB
+* SVM
+* Logistic Regression
+* Decision tree
+* random forest
 
 ## Deep Learning
 
-* Fast text
+* RCNN
